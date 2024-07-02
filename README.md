@@ -10,10 +10,11 @@ This project was to learn and test new angular features and functionalities
 * View transition animation
 * Tailwind
 
+
   ***Demo***
   * Through signals Angular is able to detect when a value has changed and show it directly to the user in real-time
   
-  Uploading Change Detection - Google Chrome 2024-07-01 22-14-33.mp4…
+  https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/502b183f-0fa4-4afb-a52a-957ca9f69bfe
   
   * Using new directives I was able to create this control flow module
     
