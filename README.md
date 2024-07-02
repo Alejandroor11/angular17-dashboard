@@ -14,7 +14,7 @@ This project was to learn and test new angular features and functionalities
   ***Demo***
   * Through signals Angular is able to detect when a value has changed and show it directly to the user in real-time
   
-  https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/502b183f-0fa4-4afb-a52a-957ca9f69bfe
+  https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/1fc209da-e0e3-406c-b284-90edaf35f547
   
   * Using new directives I was able to create this control flow module
     
