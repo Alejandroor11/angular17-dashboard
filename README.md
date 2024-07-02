@@ -1,5 +1,3 @@
-
-https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/e6e23b12-d2f3-4593-ab9c-6e5d86730230
 # Learning Angular 17 features
 This project was to learn and test new angular features and functionalities
 
@@ -12,29 +10,29 @@ This project was to learn and test new angular features and functionalities
 * View transition animation
 * Tailwind
 
-  **Demo**
+  ***Demo***
   * Through signals Angular is able to detect when a value has changed and show it directly to the user in real-time
   
   Uploading Change Detection - Google Chrome 2024-07-01 22-14-33.mp4…
   
   * Using new directives I was able to create this control flow module
-  * 
+    
   ![image](https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/16421da4-cc7c-444a-9a2d-15143cc70fb2)
 
   * Testing @defer and @placeholder to trigger UI changing through interactions
-  * 
+    
   https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/94c4748f-26e9-4ef9-aa0d-7d79f994aa4b
 
   * Making an "infinite" loop to create a heavy component I tested how Angular is able to solve these situations with @defer directive
-  * 
+    
   https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/d6130246-6dd8-4536-be66-b9dd2b92d49e
 
   * Testing http requests using computed signals
-  * 
+    
   https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/ae52cf9e-c989-4dc5-aebb-1e113c3fcfb2
 
   * Taking a look to view transition animation which show awesome UI when we navigate through modules
-  * 
+    
   https://github.com/Alejandroor11/angular17-dashboard/assets/63937788/9440f68a-69f3-4dce-9a50-c742c0cbc78c
 
 
